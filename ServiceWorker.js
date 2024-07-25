@@ -1,9 +1,9 @@
-const cacheName = "Erendal-Ghostpia-1.1.5";
+const cacheName = "UpUpUp-UpUpUpGame-1.3.0";
 const contentToCache = [
-    "Build/Builds.loader.js",
-    "Build/Builds.framework.js.unityweb",
-    "Build/Builds.data.unityweb",
-    "Build/Builds.wasm.unityweb",
+    "Build/UpUpUp-v1.3.0.loader.js",
+    "Build/UpUpUp-v1.3.0.framework.js.unityweb",
+    "Build/UpUpUp-v1.3.0.data.unityweb",
+    "Build/UpUpUp-v1.3.0.wasm.unityweb",
     "TemplateData/style.css"
 
 ];
