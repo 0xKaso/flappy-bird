@@ -1,9 +1,9 @@
-const cacheName = "UPONLY-UPONLY GAME-1.5.0";
+const cacheName = "UPONLY-UPONLY GAME-1.6.0";
 const contentToCache = [
-    "Build/UPONLY-v1.5.0.loader.js",
-    "Build/UPONLY-v1.5.0.framework.js.unityweb",
-    "Build/UPONLY-v1.5.0.data.unityweb",
-    "Build/UPONLY-v1.5.0.wasm.unityweb",
+    "Build/UPONLY-v1.6.0.loader.js",
+    "Build/UPONLY-v1.6.0.framework.js.unityweb",
+    "Build/UPONLY-v1.6.0.data.unityweb",
+    "Build/UPONLY-v1.6.0.wasm.unityweb",
     "TemplateData/style.css"
 
 ];
