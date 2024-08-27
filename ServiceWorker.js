@@ -1,9 +1,9 @@
-const cacheName = "UPONLY-UPONLY GAME-2.10.0";
+const cacheName = "UPONLY-UPONLY GAME-3.10.0";
 const contentToCache = [
-    "Build/GhostUp-v2.10.0.loader.js",
-    "Build/GhostUp-v2.10.0.framework.js.unityweb",
-    "Build/GhostUp-v2.10.0.data.unityweb",
-    "Build/GhostUp-v2.10.0.wasm.unityweb",
+    "Build/UP_v3.10.0.loader.js",
+    "Build/UP_v3.10.0.framework.js.unityweb",
+    "Build/UP_v3.10.0.data.unityweb",
+    "Build/UP_v3.10.0.wasm.unityweb",
     "TemplateData/style.css"
 
 ];
